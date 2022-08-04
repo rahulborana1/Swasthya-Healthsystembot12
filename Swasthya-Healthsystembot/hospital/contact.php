@@ -17,7 +17,7 @@ echo "<script>window.location.href ='contact.php'</script>";
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<title>HMS | Contact us</title>
+		<title>Swasthya-HealthSystem | Contact us</title>
 		<link href="css/style.css" rel="stylesheet" type="text/css"  media="all" />
 		<link href='http://fonts.googleapis.com/css?family=Ropa+Sans' rel='stylesheet' type='text/css'>
 	</head>
@@ -29,7 +29,8 @@ echo "<script>window.location.href ='contact.php'</script>";
 				<div class="wrap">
 				<!--start-logo-->
 				<div class="logo">
-		<a href="index.html" style="font-size: 30px;">Hospital Management system</a> 
+					<img src="images\MainWEBSITElogoFinal.png" alt="logo png" width="125px" height="100px">
+				</div> 
 				</div>
 				<!--end-logo-->
 				<!--start-top-nav-->
@@ -58,7 +59,7 @@ echo "<script>window.location.href ='contact.php'</script>";
 						   		<p>India</p>
 				   		<p>Phone:(00) 222 666 444</p>
 				   		<p>Fax: (000) 000 00 00 0</p>
-				 	 	<p>Email: <span>info@mycompany.com</span></p>
+				 	 	<p>Email: <span>info@swasthya.com</span></p>
 				   	
 				   </div>
 				</div>				
