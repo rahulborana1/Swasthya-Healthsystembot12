@@ -35,7 +35,7 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: php-app
-          path: Swasthya-Healthsystembot/hospital/
+          path: Swasthya-Healthsystembot/hospital
 
   deploy:
     runs-on: ubuntu-latest
